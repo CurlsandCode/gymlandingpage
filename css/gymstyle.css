@@ -1,0 +1,42 @@
+body {
+    background: url("../images/weights.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+div {
+    background-color: #000000;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 100px auto;
+    text-align: center;
+    border-radius: 25px;
+    opacity: 0.6;
+}
+
+button {
+    background: rgba(55, 51, 52);
+    padding: 0px 20px 0px 20px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    color: #000000;
+    font-size: 2em;
+    border-radius: 10px;
+    font-family: 'Candal', sans-serif;
+}
+
+h1 {
+    font-size: 3em;
+    color: #ffffff;
+    font-family: 'Candal', sans-serif;
+}
+
+p {
+    font-size: 2em;
+    color: #ffff00;
+    font-family: 'Allerta Stencil', sans-serif;
+}
+
+h4 {
+    color: #fff;
+    font-size: 1.8em;
+}
